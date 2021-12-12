@@ -2,7 +2,7 @@
 <p> <strong> Here's some info about me: </strong></p>
 <h2> what I do </h2>
 <ul>
-  <li> I am full time Forex Trader by choice - left job to chase my dream life (it's hard, but financial freedom and free time is all I need) </li>
+  <li> I am full time Forex Trader / Programmer  </li>
 </ul>
 <h2> what I was doing</h2>
 <ul>
